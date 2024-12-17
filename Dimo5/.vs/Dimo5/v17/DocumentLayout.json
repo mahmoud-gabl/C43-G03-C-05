@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-C#05\\Dimo5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2F5940-3E1C-411D-BBFD-477B5B8F4A78}|Dimo5.csproj|c:\\users\\eng islam metwally\\onedrive\\desktop\\c#\\c43-g03-c#05\\dimo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2F5940-3E1C-411D-BBFD-477B5B8F4A78}|Dimo5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-C#05\\Dimo5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eng Islam Metwally\\OneDrive\\Desktop\\c#\\C43-G03-C#05\\Dimo5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:58:23.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
